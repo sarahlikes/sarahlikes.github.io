@@ -1,3 +1,3 @@
 # sarahlikes.github.io
 The website for Sarah's latest projects and interests. 
-remote_theme: jekyll-theme-windows-95
+theme: jekyll-theme-windows-95
